@@ -1,0 +1,8 @@
+D:\TTTN\Lectures_PDF\Assignment_Week2\VuThanhTu.Csharp.P1\VuThanhTu.Csharp.P1.P001.Excercise3\bin\Debug\VuThanhTu.Csharp.P1.P001.Excercise3.exe.config
+D:\TTTN\Lectures_PDF\Assignment_Week2\VuThanhTu.Csharp.P1\VuThanhTu.Csharp.P1.P001.Excercise3\bin\Debug\VuThanhTu.Csharp.P1.P001.Excercise3.exe
+D:\TTTN\Lectures_PDF\Assignment_Week2\VuThanhTu.Csharp.P1\VuThanhTu.Csharp.P1.P001.Excercise3\bin\Debug\VuThanhTu.Csharp.P1.P001.Excercise3.pdb
+D:\TTTN\Lectures_PDF\Assignment_Week2\VuThanhTu.Csharp.P1\VuThanhTu.Csharp.P1.P001.Excercise3\obj\Debug\VuThanhTu.Csharp.P1.P001.Excercise3.csproj.AssemblyReference.cache
+D:\TTTN\Lectures_PDF\Assignment_Week2\VuThanhTu.Csharp.P1\VuThanhTu.Csharp.P1.P001.Excercise3\obj\Debug\VuThanhTu.Csharp.P1.P001.Excercise3.csproj.SuggestedBindingRedirects.cache
+D:\TTTN\Lectures_PDF\Assignment_Week2\VuThanhTu.Csharp.P1\VuThanhTu.Csharp.P1.P001.Excercise3\obj\Debug\VuThanhTu.Csharp.P1.P001.Excercise3.csproj.CoreCompileInputs.cache
+D:\TTTN\Lectures_PDF\Assignment_Week2\VuThanhTu.Csharp.P1\VuThanhTu.Csharp.P1.P001.Excercise3\obj\Debug\VuThanhTu.Csharp.P1.P001.Excercise3.exe
+D:\TTTN\Lectures_PDF\Assignment_Week2\VuThanhTu.Csharp.P1\VuThanhTu.Csharp.P1.P001.Excercise3\obj\Debug\VuThanhTu.Csharp.P1.P001.Excercise3.pdb
